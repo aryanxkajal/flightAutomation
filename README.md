@@ -32,9 +32,7 @@ Test data is stored in an Excel file located at:
 
 src/test/resources/Card.xlsx
 
-yaml
-Copy
-Edit
+example:
 
 | Sheet Name               | Purpose                      |
 |--------------------------|------------------------------|
@@ -56,7 +54,7 @@ Screenshots are automatically captured and saved when:
 
 | Contributor       | Modules Worked On                                  |
 |-------------------|-----------------------------------------------------|
-| **Subhanjan Dutta** | Login, Flight Enquiry, Flight Booking Module        |
+| **Subhanjan Dutta** | Login, Flight Enquiry and Flight Booking Module        |
 | **Aryan Kajal**     | Flight Search Module, Jira Setup, GitHub Setup      |
 
 ---
