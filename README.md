@@ -12,7 +12,6 @@
 | **Flight Enquiry** | Validates enquiry form input and reset functionality       |
 | **Flight Booking** | Tests ticket booking with positive & negative test data    |
 | **Flight Search** | Validates flight search by number, name, and type          |
-| **Reset Button**  | Ensures the reset button clears all form fields            |
 
 ---
 
@@ -24,7 +23,6 @@
 - **Build Tool**: Maven  
 - **Excel Integration**: Apache POI  
 - **Screenshot on Failure**: Captured via Hooks and attached to reports  
-- **Reports**: Cucumber HTML reports (`target/cucumber-reports.html`)
 
 ---
 
