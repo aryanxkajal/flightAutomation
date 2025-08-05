@@ -1,4 +1,3 @@
-````markdown
 # ✈️ FlightAutomation Test Framework
 
 Welcome to the official repository for the **FlightAutomation** project — a Selenium + Cucumber based automation suite designed to validate core functionalities of a flight booking web application.
